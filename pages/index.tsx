@@ -7,10 +7,10 @@ const Home: NextPage = () => {
 	return (
 		<div>
 			<Head>
-				<title>NextJS and Tailwind Template</title>
+				<title>VHT Perth</title>
 				<meta
 					name="description"
-					content="Website template for NextJS and Tailwind Framework. Also includes Framer Motion."
+					content="Authenthic Asian Foods and Liquor. Retail and Wholesale Distribution. WA Owned and Operated Family Business"
 				/>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
